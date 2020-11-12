@@ -4,7 +4,7 @@ This bot was developed for the discipline of Data Mining.
 Tecnologias utilizadas:
   - Python
 
-# Como Rodar!
+# How to run
 
   - Make sure that you have Pythone installed.
   - Go to the project path.
